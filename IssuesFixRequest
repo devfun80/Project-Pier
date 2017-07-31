@@ -1,0 +1,15 @@
+Error: Call to a member function getEmail() on null
+File: C:\xampp\htdocs\Project-Pier\application\models\notifier\Notifier.class.php
+Line: 143
+Release: pp088
+PHP Version: 5.6.31
+Table Prefix: pp088_
+Request: /Project-Pier/index.php?c=task&a=complete_task&1501548030&id=1&active_project=1
+Browser: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+
+When i try to mark a task as finished, i'm giving this error.
+
+Please give me a reply to my email: alfredo@itproshn.com
+
+Thanks a lot.
+Regards
